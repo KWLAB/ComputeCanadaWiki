@@ -1,6 +1,10 @@
 # ComputeCanadaWiki
 steps to set up your compute canada resources and important guidelines
 
+Before your start, please make sure you are familiar with the resources/terminlogies of Compute Canada available at [Compute Canada Wiki](https://docs.computecanada.ca/wiki/Getting_started)
+
+Important Warning: Do not run any intensive jobs on login nodes or directly on compute nodes. Only run jobs on compute nodes via the scheduler! Refer to [the video](https://youtu.be/TOYsh0TPy2U). 
+
 ##### Table of Contents
 - Login to CC
 - Using modules
